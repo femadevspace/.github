@@ -1,20 +1,21 @@
-<h1 align='center'>FEMA DevSpace 💫</h1>
+<h1 align='center'>
+  <img src="https://github.com/femadevspace/.github/assets/20692480/ef9ab217-0670-4ddb-8084-72cc2c8e763e" alt="FEMA DevSpace Logo Banner">
+</h1>
 
 O Fema DevSpace é o repositório oficial da Fundação Educacional de Assis ([FEMA](https://www.fema.edu.br/)), destinado a hospedar os projetos desenvolvidos pelos alunos dos cursos de [Análise e Desenvolvimento de Sistemas](https://www.fema.edu.br/ensino/graduacao/analise-de-sistemas/) e [Ciência da Computação](https://www.fema.edu.br/ensino/graduacao/ciencia-da-computacao/). Sob a coordenação da Professora Diomara, este espaço serve como um centro de aprendizado e compartilhamento de conhecimento.
 
-## 🔭 Nossa Visão
+<h2 align='center'>🔭 Nossa Visão</h2>
 
-No Fema DevSpace cada projeto é uma estrela em uma vasta constelação de ideias brilhantes. Assim como as estrelas formam padrões no céu, nossos projetos se conectam e criam redes de conhecimento, reminiscente das trilhas dos circuitos eletrônicos e das redes neurais.
+No Fema DevSpace, cada projeto é visto como uma estrela em uma vasta constelação de ideias brilhantes. Assim como as estrelas se conectam para formar constelações, nossos projetos se entrelaçam para criar redes de conhecimento. Essas redes são inspiradas pelas trilhas dos circuitos eletrônicos e pelas complexas interconexões das redes neurais.
 
-Navegue pelas constelações de projetos!
+Nosso objetivo é cultivar um ambiente onde a criatividade e a tecnologia se unem, formando um espaço colaborativo e dinâmico para o desenvolvimento e a inovação.
 
-## 🌟 O Que Você Vai Encontrar
 
-- **Projetos Acadêmicos:** Trabalhos desenvolvidos como parte do currículo dos cursos e curricularização da extensão.
-- **Iniciativas de Inovação:** Projetos que exploram novas tecnologias e soluções criativas.
-- **Colaborações:** Projetos colaborativos entre alunos, professores e a comunidade tecnológica.
+<h2 align='center'>🌟 O Que Você Vai Encontrar</h2>
 
-## 📡 Contatos
+<img width="1455" alt="o que encontra" src="https://github.com/femadevspace/.github/assets/20692480/39739589-99d7-4025-baac-2e28d2a7bbb3">
+
+<h2 align='center'>📡 Contatos</h2>
 
 <p align='center'>Para mais informações, entre em contato com a coordenadora dos cursos, Prof. Diomara</p>
 
